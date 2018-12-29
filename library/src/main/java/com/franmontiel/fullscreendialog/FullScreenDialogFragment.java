@@ -237,6 +237,7 @@ public class FullScreenDialogFragment extends DialogFragment {
         tintToolbarButton(toolbar, closeDrawable);
 
         toolbar.setNavigationIcon(closeDrawable);
+
         toolbar.setNavigationOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

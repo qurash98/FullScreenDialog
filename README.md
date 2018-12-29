@@ -18,7 +18,7 @@ allprojects {
 Step 2. Add the dependency
 ```groovy
 dependencies {
-        compile 'com.github.franmontiel:FullScreenDialog:1.0.1'
+        implementation 'com.github.franmontiel:FullScreenDialog:1.0.1'
 }
 ```
 Usage
