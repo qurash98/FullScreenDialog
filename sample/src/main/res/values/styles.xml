@@ -10,5 +10,7 @@
     <style name="FullScreenDialogToolbar">
         <item name="android:background">@color/colorPrimaryDark</item>
         <item name="android:theme">@style/ThemeOverlay.AppCompat.Dark</item>
+        <item name="android:minHeight">500dp</item>
+        <item name="android:layout_height">300dp</item>
     </style>
 </resources>

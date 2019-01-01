@@ -1,5 +1,8 @@
 <resources>
 
-    <style name="FullScreenDialogToolbar" parent="Widget.AppCompat.Toolbar" />
+    <style name="FullScreenDialogToolbar" parent="Widget.AppCompat.Toolbar">
+        <item name="android:height">32dp</item>
+    </style>
+
 
 </resources>
